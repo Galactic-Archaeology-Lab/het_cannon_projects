@@ -1,4 +1,9 @@
 from numpy import *
+<<<<<<< HEAD
+=======
+# hi keith
+#hi Zoe. I hope you are having a good day
+>>>>>>> b2914ec4eab4cef841b12a520a35815f5981932d
 import pylab as p
 from matplotlib import *
 import astropy
