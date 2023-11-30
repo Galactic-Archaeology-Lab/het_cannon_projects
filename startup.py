@@ -1,5 +1,6 @@
 from numpy import *
 # hi keith
+#hi Zoe. I hope you are having a good day
 import pylab as p
 from matplotlib import *
 import astropy
